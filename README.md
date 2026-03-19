@@ -4,7 +4,7 @@ QA Tester with experience in manual, exploratory, regression, and API testing ac
 
 ## 🔍 About Me
 - QA Tester based in Austin, Texas
-- 2+ years experience in QA testing
+- 3+ years experience in QA testing
 - Strong in manual, regression, UX, and API testing
 - Currently building automation skills with Playwright (TypeScript)
 - Knowledge of HTML, CSS, and JavaScript for web testing
