@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Karolina Dugan 👋
 
-<!--
-**kdugan360/kdugan360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Tester with experience in manual, exploratory, regression, and API testing across web and mobile applications.
 
-Here are some ideas to get you started:
+## 🔍 About Me
+- QA Tester based in Austin, Texas
+- 2+ years experience in QA testing
+- Strong in manual, regression, UX, and API testing
+- Currently building automation skills with Playwright (TypeScript)
+- Knowledge of HTML, CSS, and JavaScript for web testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Manual Testing | Regression | Exploratory | UAT
+- API Testing (Postman, SoapUI)
+- Playwright (TypeScript)
+- JIRA, GitHub
+- JavaScript, HTML, CSS, SQL, Python
+
+## 📌 Featured Projects (Coming Soon)
+- Playwright UI automation tests
+- Manual QA test documentation
+- API testing portfolio
+
+## 📫 Contact
+- Email: k.dugan360@gmail.com
+- Location: Austin, TX
